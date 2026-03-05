@@ -1,6 +1,6 @@
 import random
 
-alphabet = ["meat","pet","mat","pen"]
+alphabet = ["meat", "pet", "mat", "pen"]
 word = random.choice(alphabet)
 
 display = [" "] * len(word)    #display = [" ", " ", " ", " ", " "]  
@@ -26,5 +26,6 @@ while chances > 0:
         print("Correct answer,YOU WIN!", word)
         break
 
-if chances == 0:
+if chances == 0 and " " in display:
+
     print("You lost 😢 The word was:", word)
