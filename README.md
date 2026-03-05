@@ -1,43 +1,36 @@
+# CodeAlpha Basic Chatbot
 
-# CodeAlpha Internship Tasks — Python Projects
+## Project Description
 
-This repository contains Python projects completed as part of the CodeAlpha Python Programming Internship.
+This project is a simple rule-based chatbot developed using Python.
+The chatbot interacts with the user through the terminal and responds to basic inputs such as greetings, questions, and common conversations.
 
-## Projects Included
+## Features
 
-### 1. Basic Chatbot
-
-A simple rule-based chatbot built using Python that responds to user inputs.
-
-Features:
-
-* Responds to greetings
-* Basic conversation
-* Terminal based chatbot
-
-Folder:
-CodeAlpha_Basic_Chatbot
-
----
-
-### 2. Hangman Game
-
-A command line Hangman game where the user guesses letters to reveal a hidden word.
-
-Features:
-
-* Random word selection
-* Limited attempts
-* Displays guessed letters
-
-Folder:
-CodeAlpha_Hangman_Game
-
----
+* Responds to basic user inputs
+* Simple rule-based conversation system
+* Easy to run in terminal
+* Beginner-friendly Python project
 
 ## Technologies Used
 
-Python
+* Python
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Run the Python file in terminal:
+
+python BasicChatbox.py
+
+## Example Interaction
+
+User: Hello
+Bot: Hi! How can I help you?
+
+User: How are you?
+Bot: I am fine. Thanks for asking!
 
 ## Author
 
