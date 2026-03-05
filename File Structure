@@ -1,0 +1,11 @@
+codealpha_task
+│
+├── CodeAlpha_Hangman_Game
+│   ├── HangmanGame.py
+│   └── README.md
+│
+├── CodeAlpha_Basic_Chatbot
+│   ├── BasicChatbot.py
+│   └── README.md
+│
+└── README.md
